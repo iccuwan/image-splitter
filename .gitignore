@@ -1,0 +1,4 @@
+./vs
+imageSplitter/bin/*
+imageSplitter/map.png
+imageSplitter/output/*

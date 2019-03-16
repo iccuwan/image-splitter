@@ -1,0 +1,12 @@
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\Debug\netcoreapp2.1\imageSplitter.deps.json
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\Debug\netcoreapp2.1\imageSplitter.runtimeconfig.json
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\Debug\netcoreapp2.1\imageSplitter.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\Debug\netcoreapp2.1\imageSplitter.dll
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\Debug\netcoreapp2.1\imageSplitter.pdb
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\Debug\netcoreapp2.1\imageSplitter.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\Debug\netcoreapp2.1\imageSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\Debug\netcoreapp2.1\imageSplitter.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\Debug\netcoreapp2.1\imageSplitter.AssemblyInfo.cs
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\Debug\netcoreapp2.1\imageSplitter.dll
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\Debug\netcoreapp2.1\imageSplitter.pdb
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\Debug\netcoreapp2.1\map.png

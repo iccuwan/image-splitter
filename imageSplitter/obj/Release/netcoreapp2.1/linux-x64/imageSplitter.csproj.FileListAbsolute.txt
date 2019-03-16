@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\libhostpolicy.so
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\libhostfxr.so
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\imageSplitter
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\map.png
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\imageSplitter.deps.json
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\imageSplitter.runtimeconfig.json
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\imageSplitter.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\imageSplitter.dll
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\bin\release\netcoreapp2.1\linux-x64\imageSplitter.pdb
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\release\netcoreapp2.1\linux-x64\imageSplitter.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\release\netcoreapp2.1\linux-x64\imageSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\release\netcoreapp2.1\linux-x64\imageSplitter.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\release\netcoreapp2.1\linux-x64\imageSplitter.AssemblyInfo.cs
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\release\netcoreapp2.1\linux-x64\imageSplitter.dll
+C:\Users\Michael\source\repos\imageSplitter\imageSplitter\obj\release\netcoreapp2.1\linux-x64\imageSplitter.pdb
